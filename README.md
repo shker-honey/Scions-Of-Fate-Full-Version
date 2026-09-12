@@ -239,3 +239,6 @@ This repository serves as the official landing page for Scions of Fate. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Scions of Fate today!**
+
+---
+**Last updated:** 2026-09-12 02:40:51 UTC
