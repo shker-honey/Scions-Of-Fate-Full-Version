@@ -241,4 +241,4 @@ This repository serves as the official landing page for Scions of Fate. The soft
 **Get the most recent version of Scions of Fate today!**
 
 ---
-**Last updated:** 2026-10-24 15:13:54 UTC
+**Last updated:** 2026-10-24 18:31:42 UTC
